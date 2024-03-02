@@ -8,3 +8,5 @@
 8. Write a loop program to print the two-digit even numbers, who’s sum of digits are 6.
 9. Write a loop program to print the sum of two-digit numbers whose one’s digit is 5.
 10. Write a loop program to print the sum of two-digit odd numbers, whose ten’s digit is 7.
+11. Write a program to get a number from user print the total number of digits in that number.
+12. Write a program to get a number from user and print the sum of all digits.
