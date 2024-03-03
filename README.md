@@ -10,3 +10,5 @@
 10. Write a loop program to print the sum of two-digit odd numbers, whose ten’s digit is 7.
 11. Write a program to get a number from user print the total number of digits in that number.
 12. Write a program to get a number from user and print the sum of all digits.
+13. Write a program to get a number from user and print the reverse of that number.
+14. Write a program to get a number from user and interchange the first and last digits and print the result.
